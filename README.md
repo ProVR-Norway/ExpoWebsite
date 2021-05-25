@@ -1,2 +1,2 @@
-# ExpoWebsite
-ProVR Expo Website
+# USNExpoWebsite
+ProVR's USNExpo Website
