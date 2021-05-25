@@ -1,0 +1,17 @@
+Good to know:
+
+w3schools.com egner seg for å bruke om noe viser seg å ikke virke når det gjelder å legge inn tekset, bilder og video.
+
+For bilder så blir det bruk av <img>
+For å legge til video blir det bruk av <iframe>
+
+Om man skal ha spesiell størrelse på noen elementer, definer dissen i taggen, som f.eks. <img width="100px" height="100px">
+Samme prinsipp for <iframe>
+
+<h1> & <h2> står for header, altså overskrift, der 1 er størst og 2 mindre
+
+</h1> og andre med / inne i taggen, betyr at den seksjonen er slutt
+
+<!--  --> Er for kommentarer, <!-- Dette er da en kommentar i html -->
+
+Alle lenker har strek under seg.
