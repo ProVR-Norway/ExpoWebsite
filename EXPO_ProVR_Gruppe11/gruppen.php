@@ -15,7 +15,7 @@
         <td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
         <td>Nilsen, Øystein Løndal</td>
         <br><br>
-        Software Engineer (Embedded Systems)
+        <b>Software Engineer (Embedded Systems)</b>
         <br><br>
       <ul>
 				<li><b>Responsebilities</b></li>
@@ -29,7 +29,7 @@
         <td class="PersonBilde"><img src="Bilder/david.PNG" alt="David"></td>
         <td>Dokka, David</td>
         <br><br>
-        Software Engineer (Virtual Systems)
+        <b>Software Engineer (Virtual Systems)</b>
         <br><br>
         <ul>
           <li><b>Responsebilities</b></li>
@@ -42,7 +42,7 @@
         <td class="PersonBilde"><img src="Bilder/ole.PNG" alt="Ole Håkon"></td>
         <td>Hjelle, Ole Håkon</td>
         <br><br>
-        Software Engineer (Embedded Systems)
+        <b>Software Engineer (Embedded Systems)</b>
         <br><br>
         <ul>
           <li><b>Responsebilities</b></li>
@@ -56,7 +56,7 @@
         <td class="PersonBilde"><img src="Bilder/ingvar.PNG" alt="Ingvar"></td>
         <td>Wedervang, Ingvar August</td>
         <br><br>
-        Software Engineer (Embedded Systems)
+        <b>Software Engineer (Embedded Systems)</b>
         <br><br>
         <ul>
           <li><b>Responsebilities</b></li>
