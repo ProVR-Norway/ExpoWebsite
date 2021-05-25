@@ -17,10 +17,12 @@
         <br><br>
         Software Engineer (Embedded Systems)
         <br><br>
-        Responsebilities:
-        Project Owner
-        Requirements Manager
-        Backend
+      <ul>
+				<li><b>Responsebilities</b></li>
+				<li>Project Owner</li>
+				<li>Requirements Manager</li>
+				<li>Backend</li>
+			</ul>
       </tr>
 
       <tr>
@@ -29,9 +31,11 @@
         <br><br>
         Software Engineer (Virtual Systems)
         <br><br>
-        Responsebilities:
-        Test Manager
-        User Interfaces
+        <ul>
+          <li><b>Responsebilities</b></li>
+          <li>Team Manager</li>
+          <li>User Interfaces</li>
+			  </ul>
       </tr>
 
       <tr>
@@ -40,10 +44,12 @@
         <br><br>
         Software Engineer (Embedded Systems)
         <br><br>
-        Responsebilities:
-        Risk Manager
-        Scrum Master
-        CAD Model Interaction
+        <ul>
+          <li><b>Responsebilities</b></li>
+          <li>Risk Manger</li>
+          <li>Scrum Master</li>
+          <li>CAD Model Interaction</li>
+			  </ul>
       </tr>
 
       <tr>
@@ -52,9 +58,12 @@
         <br><br>
         Software Engineer (Embedded Systems)
         <br><br>
-        Responsebilities:
-        Documentation Manager
-        C++ Managers
+        <ul>
+          <li><b>Responsebilities</b></li>
+          <li>Documentation Manager</li>
+          <li>Documentation Manager</li>
+          <li>C++ Managers</li>
+			  </ul>
       </tr>
     </table>
 
