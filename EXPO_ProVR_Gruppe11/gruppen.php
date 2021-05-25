@@ -14,16 +14,14 @@
 
       <tr>
         <td class="PersonBilde"><img src="Bilder/øystein.jpg" alt="Øystein"></td>
-        <td>
-          Nilsen, Øystein Løndal
-          <!-- <br> brukes for ny linje, kan være nyttig for å lage mellomrom mellom elementer i teksten, 
-            ellers blir det ny linje når teksten når kanten til kolonnen, 
-            øker bare antall utfra mengden mellomrom mellom linjene  -->
-          <br><br>
-          Software Engineer (Embedded Systems)
-        </td>
+        <td>Nilsen, Øystein Løndal</td>
+        <br><br>
+        Software Engineer (Embedded Systems)
+        <br><br>
         Responsebilities:
-        
+        Project Owner
+        Requirements Manager
+        Backend
       </tr>
 
       <tr>
@@ -33,7 +31,9 @@
         Software Engineer (Virtual Systems)
         <br><br>
         Responsebilities:
-        
+        Test Manager
+        User Interfaces
+
       </tr>
 
       <tr>
@@ -49,19 +49,31 @@
       </tr>
 
       <tr>
-        <td class="PersonBilde"><img src="Bilder/david.jpg" alt="Ingvar"></td>
+        <td class="PersonBilde"><img src="Bilder/ingvar.jpg" alt="Ingvar"></td>
         <td>Wedervang, Ingvar August</td>
         <br><br>
         Software Engineer (Embedded Systems)
         <br><br>
         Responsebilities:
+        Documentation Manager
+        C++ Managers
         
       </tr>
     </table>
 
-    <h2>Oppdragsgiver</h2>
+    <h2>Kongsberg Digital</h2>
     <p>
-      Presenter oppdragsgiveren deres (dere kan godt linke til en ny side)
+
+      <br><br>
+
+      <br><br>
+
+      <br><br>
+
+      <br><br>
+      Kongsberg Digital is part of the KONGSBERG Group.
+      <br><br>
+      <a href="https://www.kongsberg.com/no/digital/">Kongsberg Digital</a><br>
     </p>
   </div>
 </body>
