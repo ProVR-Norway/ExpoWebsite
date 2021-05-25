@@ -5,7 +5,6 @@
 ?>
 <body>
 
-
 	<div>
 
 		<h1><a href="prosjekt.php">Tittel på prosjektet - Dxx-2021</a></h1>

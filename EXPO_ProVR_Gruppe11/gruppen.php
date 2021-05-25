@@ -13,7 +13,7 @@
     <table>
 
       <tr>
-        <td class="PersonBilde"><img src="Bilder/Karoline.jpg" alt="Karoline"></td>
+        <td class="PersonBilde"><img src="Bilder/øystein.jpg" alt="Øystein"></td>
         <td>
           Lag en rad for hver person, Fortell om bakgrunn, studieretning og ansvarsområde i prosjektet
           <!-- <br> brukes for ny linje, kan være nyttig for å lage mellomrom mellom elementer i teksten, 
@@ -21,11 +21,21 @@
             øker bare antall utfra mengden mellomrom mellom linjene  -->
           <br><br>
           Mer tekst.
-
         </td>
       </tr>
+      
       <tr>
-        <td class="PersonBilde"><img src="Bilder/Karoline.jpg" alt="Karoline"></td>
+        <td class="PersonBilde"><img src="Bilder/david.jpg" alt="David"></td>
+        <td>Dere kan godt lage en side for hver og linke til den i denne tabellen</td>
+      </tr>
+
+      <tr>
+        <td class="PersonBilde"><img src="Bilder/ole.jpg" alt="Ole Håkon"></td>
+        <td>Dere kan godt lage en side for hver og linke til den i denne tabellen</td>
+      </tr>
+
+      <tr>
+        <td class="PersonBilde"><img src="Bilder/david.jpg" alt="Ingvar"></td>
         <td>Dere kan godt lage en side for hver og linke til den i denne tabellen</td>
       </tr>
     </table>
