@@ -11,6 +11,26 @@
 
 		<h2>Linker</h2>
 
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
+		<td class="PersonBilde"><img src="Bilder/øystein.PNG" alt="Øystein"></td>
+
 		<p>
 		  List og beskriv alt dere har lyst til å vise juryen.
 		  <br>
