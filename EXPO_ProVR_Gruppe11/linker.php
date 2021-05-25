@@ -7,7 +7,7 @@
 
 	<div>
 
-		<h1><a href="prosjekt.php">Tittel på prosjektet - Dxx-2021</a></h1>
+		<h1><a href="prosjekt.php">ProVR - D11-2021</a></h1>
 
 		<h2>Linker</h2>
 
